@@ -1,4 +1,4 @@
-[GitHub Pages](https://oksanabannova.github.io/props--films/)
+[GitHub Pages](https://oksanabannova.github.io/films/)
 
 
 [![Build status](https://ci.appveyor.com/api/projects/status/0kexv5vm4ox12i03?svg=true)](https://ci.appveyor.com/project/OksanaBannova/films)
